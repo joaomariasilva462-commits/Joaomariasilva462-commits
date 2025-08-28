@@ -3,5 +3,6 @@
 # sejam bem vindo (a)
 
 Olá! Sou João Maria da Silva Júnior, 
-um profissional apaixonado por tecnologia.
-Estudante em Analise e Desenvolvimento. 
+Estudandante de Análise e Desenvolvimento de Sistemas 
+Aspirante em Desenvolvimento de Software 
+Foco em Desenvolvimento Web
